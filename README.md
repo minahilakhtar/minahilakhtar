@@ -1,26 +1,26 @@
-### Hello Beautiful people 👋
 
-It is my pleasure to introduce myself to you as Minahil Akhtar a MERN stack (MongoDB, Express.js, React.js, Node.js) and WordPress developer. As a passionate programmer, I have immersed myself in the world of web development and discovered the power of the MERN stack. 
+# Hi, I'm Minahil! 👋
 
-With a deep understanding of the MERN stack and a passion for clean, efficient code. My primary goal is to deliver high-quality solutions that align with client objectives and exceed expectations.
+### 🚀 About Me
 
-The areas of my expertise lies in
-HTML5 
-Tailwind CSS
-Bootstrap
-JavaScript
-React.JS, Redux
-Node.JS
-Express.js 
-REST APIs, and MongoDB. along with responsive coding. Projects that I've worked on can be viewed in my portfolio.
+I’m a highly motivated software engineer, I specialize in the MERN stack. My strong problem-solving skills have been instrumental in developing custom business solutions. I possess significant experience working with JavaScript-based technologies, including an adept understanding of libraries and frameworks such as React and NodeJS. My technical proficiency is underpinned by my commitment to applying the most effective technology stack to address complex business challenges.
 
 If you have a project idea in mind or if you just want to say hello, feel free to reach out to me. My inbox is open to all.
 
-My Personal Website
-https://minahilakhtar.com
+## 🔗 Connect with me:
 
-My Portfolio Website 
-https://minahilakhtar.github.io/cv/
+[![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://minahilakhtar.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minahil-akhtar/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MinahilAkhtar9)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minahilakhtar2235/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/minahilakhtar2235/)
+
+
+## Support
+
+For any query, email info@minahilakhtar.com send me a mail.
+
+
 <!--
 **minahilakhtar/minahilakhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
