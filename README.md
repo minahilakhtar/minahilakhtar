@@ -7,6 +7,10 @@ I’m a highly motivated software engineer, I specialize in the MERN stack. My s
 
 If you have a project idea in mind or if you just want to say hello, feel free to reach out to me. My inbox is open to all.
 
+My Websites :
+🌐folll.io/minahilakhtar
+🌐minahilakhtar.github.io/cv
+
 ## 🔗 Connect with me:
 
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://minahilakhtar.com/)
