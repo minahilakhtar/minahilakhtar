@@ -13,7 +13,7 @@ My Websites :
 
 ## 🔗 Connect with me:
 
-[![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://minahilakhtar.com/](https://minahilakhtar.github.io/cv))
+[![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://minahilakhtar.github.io/cv)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minahil-akhtar/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@minahilakhtar9)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/minahilakhtar2235/) 
@@ -22,7 +22,7 @@ My Websites :
 
 ## Support
 
-For any query, email info@minahilakhtar.com send me a mail.
+For any query, email minahilakhter@gmail.com send me a mail.
 
 
 <!--
