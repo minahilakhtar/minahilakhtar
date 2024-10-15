@@ -10,7 +10,8 @@ I specialize in the MERN stack. My strong problem-solving skills have been instr
 
 I can design, develop, and test responsive websites that are optimized for all devices and browsers. I am also experienced in SEO optimization, website security, and performance optimization.
 
-If you have a project idea in mind or if you just want to say hello, feel free to reach out to me. My inbox is open to all.
+I'm deeply passionate about merging technical innovation with creative problem-solving to help businesses scale new heights. If you're looking for advice on your website or curious about what's possible in the digital realm, don't hesitate to reach out. Let's team up and turn those incredible ideas into reality.
+
 
 My Websites :
 🌐folll.io/minahilakhtar
