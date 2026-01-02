@@ -15,7 +15,7 @@ I'm deeply passionate about merging technical innovation with creative problem-s
 
 My Websites :
 🌐folll.io/minahilakhtar
-🌐minahilakhtar.github.io/cv
+🌐minahilakhtar.github.io
 
 ## 🔗 Connect with me:
 
