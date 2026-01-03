@@ -4,13 +4,17 @@
 ### 🚀 About Me
 
 
+👋 Greetings!
 I'm Minahil Akhtar, a Full-stack developer who loves crafting digital solutions. My strong foundation in front-end and back-end technologies allows me to solve problems creatively and with a user-centric approach.
 
-I specialize in the MERN stack and have significant experience working with WordPress as well. My strong problem-solving skills have been instrumental in developing custom business solutions. I possess significant experience working with JavaScript-based technologies, including an adept understanding of libraries and frameworks such as React, Express.js, and NodeJS. I have experience working with popular content management systems like WordPress. My technical proficiency is underpinned by my commitment to applying the most effective technology stack to address complex business challenges.
+I specialize in MERN stack development while also working extensively with WordPress. My strong problem-solving skills have been instrumental in developing custom business solutions. I possess significant experience working with JavaScript-based technologies, including an adept understanding of libraries and frameworks such as React, Express.js, and NodeJS. I have experience working with popular content management systems like WordPress. My technical proficiency is underpinned by my commitment to applying the most effective technology stack to address complex business challenges.
 
 I can design, develop, and test responsive websites that are optimized for all devices and browsers. I am also experienced in SEO optimization, website security, and performance optimization.
 
 I'm deeply passionate about merging technical innovation with creative problem-solving to help businesses scale new heights. If you're looking for advice on your website or curious about what's possible in the digital realm, don't hesitate to reach out. Let's team up and turn those incredible ideas into reality.
+
+My Portfolio Website 👇
+https://minahilakhtar.github.io
 
 
 My Websites :
