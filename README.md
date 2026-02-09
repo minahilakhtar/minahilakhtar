@@ -5,13 +5,13 @@
 
 
 👋 Greetings!
-I'm Minahil Akhtar, a Full-stack developer who loves crafting digital solutions. My strong foundation in front-end and back-end technologies allows me to solve problems creatively and with a user-centric approach.
+I’m Minahil Akhtar, a passionate Full-Stack Website Developer and Designer focused on helping businesses grow, scale, and move to the next level through high-impact digital solutions. With a strong foundation in Front-End and Back-end technologies, I approach every project with a results-driven, strategic, and user-centric mindset to deliver real business outcomes.
 
-I specialize in MERN stack development while also working extensively with WordPress. My strong problem-solving skills have been instrumental in developing custom business solutions. I possess significant experience working with JavaScript-based technologies, including an adept understanding of libraries and frameworks such as React, Express.js, and NodeJS. I have experience working with popular content management systems like WordPress. My technical proficiency is underpinned by my commitment to applying the most effective technology stack to address complex business challenges.
+My priority on every project is to implement effective, growth-oriented frameworks that elevate your brand and make your website stand out in a competitive market. I build digital experiences that not only look great but also perform, converting visitors into potential clients and driving measurable business success is my mantra.
 
-I can design, develop, and test responsive websites that are optimized for all devices and browsers. I am also experienced in SEO optimization, website security, and performance optimization.
+I specialize in MERN stack development while also working extensively with WordPress and Shopify. My strong problem-solving skills have been instrumental in developing custom business solutions. I possess significant experience working with JavaScript-based technologies, including an adept understanding of libraries and frameworks such as React, Express.js, and NodeJS. I have experience working with popular content management systems like WordPress and Shopify. I am also experienced in SEO optimization, website security, and performance optimization. My technical proficiency is underpinned by my commitment to applying the most effective technology stack to address complex business challenges.
 
-I'm deeply passionate about merging technical innovation with creative problem-solving to help businesses scale new heights. If you're looking for advice on your website or curious about what's possible in the digital realm, don't hesitate to reach out. Let's team up and turn those incredible ideas into reality.
+I’m deeply passionate about merging technical innovation with creative problem-solving to help businesses scale new heights. If you’re looking for advice on your website or curious about what’s possible in the digital realm, don’t hesitate to reach out. Let’s team up and turn those incredible ideas into reality.
 
 My Portfolio Website 👇
 https://minahilakhtar.github.io
