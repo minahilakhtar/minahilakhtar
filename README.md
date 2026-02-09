@@ -13,10 +13,10 @@ I specialize in MERN stack development while also working extensively with WordP
 
 I’m deeply passionate about merging technical innovation with creative problem-solving to help businesses scale new heights. If you’re looking for advice on your website or curious about what’s possible in the digital realm, don’t hesitate to reach out. Let’s team up and turn those incredible ideas into reality.
 
-My Portfolio Website 👇
+My Portfolio Website
 🌐https://minahilakhtar.github.io
 
-My Linktree 👇
+My Linktree 
 🌐https://folll.io/minahilakhtar
 
 ## 🔗 Connect with me:
