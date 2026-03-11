@@ -5,7 +5,7 @@
 
 
 👋 Greetings!
-I’m Minahil Akhtar, a passionate Full-Stack Website Developer and Designer focused on helping businesses grow, scale, and move to the next level through high-impact digital solutions. With a strong foundation in Front-End and Back-end technologies, I approach every project with a results-driven, strategic, and user-centric mindset to deliver real business outcomes.
+I’m Minahil Akhter, a passionate Full-Stack Website Developer and Designer focused on helping businesses grow, scale, and move to the next level through high-impact digital solutions. With a strong foundation in Front-End and Back-end technologies, I approach every project with a results-driven, strategic, and user-centric mindset to deliver real business outcomes.
 
 My priority on every project is to implement effective, growth-oriented frameworks that elevate your brand and make your website stand out in a competitive market. I build digital experiences that not only look great but also perform, converting visitors into potential clients and driving measurable business success is my mantra.
 
