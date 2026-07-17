@@ -5,13 +5,16 @@
 
 
 👋 Greetings!
-I’m Minahil Akhter, a passionate Full-Stack Website Developer and Designer focused on helping businesses grow, scale, and move to the next level through high-impact digital solutions. With a strong foundation in Front-End and Back-end technologies, I approach every project with a results-driven, strategic, and user-centric mindset to deliver real business outcomes.
+I’m Minahil Akhter, a passionate Full-Stack Website Developer and Designer dedicated to helping businesses grow, scale, and turn their websites into powerful sales machines. I create high-impact digital solutions that are strategically designed to generate leads, increase conversions, and maximize business growth not just attractive websites.
 
-My priority on every project is to implement effective, growth-oriented frameworks that elevate your brand and make your website stand out in a competitive market. I build digital experiences that not only look great but also perform, converting visitors into potential clients and driving measurable business success is my mantra.
+My approach goes beyond development. I combine website strategy with performance-driven social media marketing to ensure your brand reaches the right audience, builds engagement, and converts attention into real business results. From website funnels to social media touchpoints, I focus on creating a seamless and effective customer journey.
 
-I specialize in MERN stack development while also working extensively with WordPress and Shopify. My strong problem-solving skills have been instrumental in developing custom business solutions. I possess significant experience working with JavaScript-based technologies, including an adept understanding of libraries and frameworks such as React, Express.js, and NodeJS. I have experience working with popular content management systems like WordPress and Shopify. I am also experienced in SEO optimization, website security, and performance optimization. My technical proficiency is underpinned by my commitment to applying the most effective technology stack to address complex business challenges.
+On every project, my priority is to implement growth-oriented frameworks that elevate your brand and help you stand out in a competitive market. I build digital experiences that not only look exceptional but also perform turning visitors into customers and maximizing ROI across both web and social platforms.
 
-I’m deeply passionate about merging technical innovation with creative problem-solving to help businesses scale new heights. If you’re looking for advice on your website or curious about what’s possible in the digital realm, don’t hesitate to reach out. Let’s team up and turn those incredible ideas into reality.
+I specialize in MERN stack development, alongside extensive experience with WordPress and Shopify, enabling me to build scalable and high-performing digital solutions. My strong problem-solving abilities allow me to develop tailored business solutions that align with growth objectives. I have solid expertise in JavaScript technologies, with a deep understanding of frameworks and libraries such as React, Node.js, and Express.js.
+Beyond development, I integrate social media marketing strategies to ensure that platforms are not only technically robust but also positioned to attract, engage, and convert the right audience. I bring hands-on experience with leading content management systems, combined with expertise in SEO optimization, website security, and performance enhancement.
+
+I’m deeply passionate about merging technical innovation with creative problem-solving to help businesses scale new heights. If you’re looking for expert guidance on your website, social media marketing, or overall business growth, feel free to reach out. Let’s collaborate to turn your ideas into impactful, results-driven solutions that move your business forward.
 
 My Portfolio Website
 🌐https://minahilakhtar.github.io
